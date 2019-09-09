@@ -63,8 +63,10 @@
       padding: 10px;
   }
 
-@media only screen and (max-width: 768px) {
-  body {
-    background-color: lightblue;
+@media (max-width:600px){
+  .form{
+  float: none;
+  text-align: center;
+  align-content: center;
   }
 }
