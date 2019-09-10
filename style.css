@@ -1,7 +1,11 @@
  .login-page {
     width: 360px;
-    padding: 8% 0 0;
+    padding: 2rem 0;
     margin: auto;
+    min-height:100vh;
+    display:flex;
+    align-items: center;
+    Justify-content: center;
   }
   .form {
     position: relative;
